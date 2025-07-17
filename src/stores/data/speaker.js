@@ -2,7 +2,7 @@ export const speakerData = [
   {
     id: "1",
     product: "Speaker",
-    image: "assets/speakers/1.jpg",
+    image: "/assets/speakers/1.jpg",
     brand: "Bose",
     model: "SoundLink Revolve",
     price: "199.99",
@@ -13,7 +13,7 @@ export const speakerData = [
   {
     id: "2",
     product: "Speaker",
-    image: "assets/speakers/2.jpg",
+    image: "/assets/speakers/2.jpg",
     brand: "Sonos",
     model: "One SL",
     price: "179.00",
@@ -24,7 +24,7 @@ export const speakerData = [
   {
     id: "3",
     product: "Speaker",
-    image: "assets/speakers/3.jpg",
+    image: "/assets/speakers/3.jpg",
     brand: "JBL",
     model: "Flip 5",
     price: "119.99",
@@ -35,7 +35,7 @@ export const speakerData = [
   {
     id: "4",
     product: "Speaker",
-    image: "assets/speakers/4.jpg",
+    image: "/assets/speakers/4.jpg",
     brand: "Sony",
     model: "SRS-XB43",
     price: "169.50",
@@ -46,7 +46,7 @@ export const speakerData = [
   {
     id: "5",
     product: "Speaker",
-    image: "assets/speakers/5.jpg",
+    image: "/assets/speakers/5.jpg",
     brand: "Ultimate Ears",
     model: "MEGABOOM 3",
     price: "199.00",
@@ -57,7 +57,7 @@ export const speakerData = [
   {
     id: "6",
     product: "Speaker",
-    image: "assets/speakers/6.jpg",
+    image: "/assets/speakers/6.jpg",
     brand: "Harman Kardon",
     model: "Aura Studio 3",
     price: "249.99",
@@ -68,7 +68,7 @@ export const speakerData = [
   {
     id: "7",
     product: "Speaker",
-    image: "assets/speakers/7.jpg",
+    image: "/assets/speakers/7.jpg",
     brand: "Anker",
     model: "Soundcore Flare",
     price: "69.99",
@@ -79,7 +79,7 @@ export const speakerData = [
   {
     id: "8",
     product: "Speaker",
-    image: "assets/speakers/8.jpg",
+    image: "/assets/speakers/8.jpg",
     brand: "Marshall",
     model: "Stanmore II",
     price: "349.00",
@@ -90,7 +90,7 @@ export const speakerData = [
   {
     id: "9",
     product: "Speaker",
-    image: "assets/speakers/9.jpg",
+    image: "/assets/speakers/9.jpg",
     brand: "Bose",
     model: "Home Speaker 500",
     price: "299.00",
@@ -101,7 +101,7 @@ export const speakerData = [
   {
     id: "10",
     product: "Speaker",
-    image: "assets/speakers/10.jpg",
+    image: "/assets/speakers/10.jpg",
     brand: "Yamaha",
     model: "MusicCast 20",
     price: "199.50",
@@ -112,7 +112,7 @@ export const speakerData = [
   {
     id: "11",
     product: "Speaker",
-    image: "assets/speakers/11.jpg",
+    image: "/assets/speakers/11.jpg",
     brand: "Bang & Olufsen",
     model: "Beoplay A9",
     price: "2799.00",
@@ -123,7 +123,7 @@ export const speakerData = [
   {
     id: "12",
     product: "Speaker",
-    image: "assets/speakers/12.jpg",
+    image: "/assets/speakers/12.jpg",
     brand: "UE",
     model: "BOOM 2",
     price: "129.99",
