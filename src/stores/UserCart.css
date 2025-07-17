@@ -1,0 +1,40 @@
+.y-cart {
+    text-align: center;
+}
+
+.empty {
+    text-align: center;
+}
+
+.cart-section {
+    display: flex;
+    border: 3px solid gray;
+    /* border-radius: 15px; */
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.cart-img img {
+    width: 50%;
+    /* border-radius: 15px; */
+}
+
+.cart-details {
+    width: 50%;
+}
+
+.removeBtn {
+    padding: 10px;
+    width: 10rem;
+    background-color: rgb(241, 79, 79);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.removeBtn:hover {
+    background-color: red;
+    cursor: pointer;
+}

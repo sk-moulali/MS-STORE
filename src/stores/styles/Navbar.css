@@ -1,0 +1,105 @@
+.navbar-section {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.navSection {
+    display: flex;
+    width: 100%;
+    min-width: 100vw;
+    height: 80px;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+}
+
+.custom-link {
+    text-decoration: none;
+}
+
+.title h2 {
+    color: white;
+}
+
+.title h2:hover{
+    color: gold;
+}
+
+.search {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+.search input {
+    width: 80%;
+    height: 2rem;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: medium;
+    outline: none;
+    border: none;
+}
+
+.user {
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-detail{
+    cursor: pointer;
+}
+
+.user-detail:hover{
+    color: gold;
+}
+
+.cart {
+    color: white;
+}
+
+.cart:hover{
+    color: gold;
+}
+
+.cart span {
+    color: greenyellow;
+    font-size: larger;
+    margin-left: 5px;
+    font-weight: 600;
+}
+
+.subMenu {
+    background-color: gray;
+    color: azure;
+    height: 50px;
+}
+
+.subMenu ul {
+    display: inline-flex;
+}
+
+.subMenu ul li {
+    list-style: none;
+    margin: 26px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.subMenu ul li:hover {
+    border-bottom: 2px solid gold;
+    color: black;
+}
+
+ul li {
+    color: white;
+}
