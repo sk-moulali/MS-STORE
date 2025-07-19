@@ -11,10 +11,13 @@ import Books from "./Books";
 import Speakers from "./Speakers";
 import TV from "./TV";
 import Fridge from "./Fridge";
+import banner from '/assets/banner1.jpg'
+console.log('banner : ',banner)
 
 const Products = () => {
   return (
     <div>
+      <img src={banner} alt="banner image"  width={1280} style={{cursor:"pointer"}}/>
       <Mobiles />
       <Computers />
       <Watch />

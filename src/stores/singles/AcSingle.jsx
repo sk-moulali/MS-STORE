@@ -10,6 +10,7 @@ const AcSingle = () => {
   const { id } = useParams();
 
   const {addToCart, cartItems} = useCart()
+  {console.log('cart : ',addToCart)}
 
   const product = acData.find((item) => item.id === id);
 
